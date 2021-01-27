@@ -6,3 +6,4 @@
 #your name
 hostname
 uname -a
+cat /etc/issue
